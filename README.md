@@ -4,46 +4,61 @@
 
 I'm a data analytics professional with 2+ years of experience using **SQL, Python, Power BI, Tableau, and Excel** to analyze complex datasets, automate reporting, build dashboards, and translate data into actionable business insights.
 
-I recently completed my **M.S. in Business Analytics at California State University, Sacramento**. My interests include data analytics, business intelligence, data visualization, statistical analysis, and solving business problems through data.
+I recently completed my **M.S. in Business Analytics at California State University, Sacramento**. I'm passionate about using data to solve business problems, uncover meaningful patterns, and support better decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** SQL, Python, R  
-**Business Intelligence:** Power BI, Tableau, Excel  
-**Databases & Cloud:** Snowflake, SQL Server, Oracle ERP  
-**Analytics:** Data Analysis, Data Cleaning, ETL, Data Validation, Data Modeling, Statistical Analysis, Predictive Analytics  
-**Machine Learning:** Scikit-learn, TensorFlow  
-**Tools:** Git, Jira, Streamlit, Microsoft Office
+### Languages & Analytics
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![R](https://img.shields.io/badge/R-Statistical%20Analysis-blue)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+
+### Data & Cloud
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![Oracle](https://img.shields.io/badge/Oracle-ERP-red)
+
+### Additional Skills
+`ETL` • `Data Cleaning` • `Data Validation` • `Data Modeling` • `EDA` • `Statistical Analysis` • `Predictive Analytics` • `Scikit-learn` • `TensorFlow` • `Git` • `Jira` • `Streamlit`
 
 ---
 
 ## 📊 Featured Projects
 
-### 🔹 SQL Data Analysis
+### 🗄️ SQL Data Analysis
 
 SQL projects focused on querying, cleaning, transforming, and analyzing datasets to answer business questions and uncover actionable insights.
 
-**Skills:** SQL • Data Analysis • Data Cleaning • Joins • CTEs • Window Functions • Aggregations
+**Key Skills:** `SQL` `Data Cleaning` `Joins` `CTEs` `Window Functions` `Aggregations`
 
-➡️ [**View SQL Projects**](https://github.com/dixitavandra/SQL-Projects)
+➡️ [**Explore My SQL Projects**](https://github.com/dixitavandra/SQL-Projects)
 
-### 🔹 Power BI Analytics
+---
+
+### 📈 Power BI Analytics
 
 Interactive Power BI projects focused on transforming raw data into dashboards, KPIs, and visual insights for business decision-making.
 
-**Skills:** Power BI • Power Query • Data Modeling • DAX • KPI Reporting • Data Visualization
+**Key Skills:** `Power BI` `Power Query` `DAX` `Data Modeling` `KPI Reporting` `Data Visualization`
 
-➡️ [**View Power BI Projects**](https://github.com/dixitavandra/PowerBi-Projects)
+➡️ [**Explore My Power BI Projects**](https://github.com/dixitavandra/PowerBi-Projects)
 
-### 🔹 Python Exploratory Data Analysis
+---
 
-Python projects involving data cleaning, exploratory data analysis, visualization, and identification of patterns and trends within datasets.
+### 🐍 Python Exploratory Data Analysis
 
-**Skills:** Python • Pandas • NumPy • Matplotlib • Data Cleaning • EDA
+Python projects involving data cleaning, exploratory data analysis, visualization, and identification of meaningful patterns and trends.
 
-➡️ [**View Python EDA Projects**](https://github.com/dixitavandra/Python-EDA-Projects)
+**Key Skills:** `Python` `Pandas` `NumPy` `Matplotlib` `Data Cleaning` `EDA`
+
+➡️ [**Explore My Python Projects**](https://github.com/dixitavandra/Python-EDA-Projects)
 
 ---
 
@@ -60,18 +75,20 @@ Maharaja Sayajirao University of Baroda
 
 ---
 
-## 💼 What I'm Interested In
+## 🎯 Career Interests
 
-I'm interested in opportunities where I can use data to solve business problems, improve reporting and decision-making, identify trends, and develop analytical solutions.
+I'm interested in opportunities where I can apply analytics and business intelligence to solve business problems, improve reporting, identify trends, and support data-driven decision-making.
 
-**Target Roles:**  
-Data Analyst • Business Intelligence Analyst • Reporting Analyst • Operations Analyst • Business Analyst
+**Target Roles**
+
+`Data Analyst` • `Business Intelligence Analyst` • `Reporting Analyst` • `Operations Analyst` • `Business Analyst`
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-[**LinkedIn**](https://www.linkedin.com/in/dixita-vandra/) • [**GitHub**](https://github.com/dixitavandra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dixita%20Vandra-blue?logo=linkedin)](https://www.linkedin.com/in/dixita-vandra/)
+[![GitHub](https://img.shields.io/badge/GitHub-dixitavandra-black?logo=github)](https://github.com/dixitavandra)
 
 ---
 
